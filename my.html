@@ -27,12 +27,61 @@
 <!-- markdown -->
 哈哈哈
 [hahha]
+----{object-c}
+AFHTTPRequestOperationManager *manager = [AFHTTPRequestOperationManager manager];
+    [manager GET:urlStr parameters:nil success:^(AFHTTPRequestOperation *operation, id responseObject) {
+        
+        if ([responseObject isKindOfClass:[NSArray class]]) {
+            NSDictionary *bean = [((NSArray *)responseObject) objectAtIndex:0];
+            NSError * error=nil;
+            @try {
+                HATHotelBean * thisReturnBean = [MTLJSONAdapter modelOfClass:HATHotelBean.class fromJSONDictionary:bean error:&error];
+                successedBlock(thisReturnBean);
+            }
+            @catch (NSException *exception) {
+                NSLog(@"jsonstr生成对象失败：%@，%@",[exception name], [exception reason]);
+                failedBlock(error);
+            }
+            @finally {
+                //Code that gets executed whether or not an exception is thrown
+            }
+        }
+    } failure:^(AFHTTPRequestOperation *operation, NSError *error) {
+        failedBlock(error);
+    }];
+
+----
 <!-- markdown end -->
 </div>
 <div class="entry" id="main">
 <!-- content -->
 <p>哈哈哈
-[hahha]</p>
+[hahha]
+----{object-c}
+AFHTTPRequestOperationManager *manager = [AFHTTPRequestOperationManager manager];
+    [manager GET:urlStr parameters:nil success:^(AFHTTPRequestOperation *operation, id responseObject) {</p>
+
+<pre><code>    if ([responseObject isKindOfClass:[NSArray class]]) {
+        NSDictionary *bean = [((NSArray *)responseObject) objectAtIndex:0];
+        NSError * error=nil;
+        @try {
+            HATHotelBean * thisReturnBean = [MTLJSONAdapter modelOfClass:HATHotelBean.class fromJSONDictionary:bean error:&amp;error];
+            successedBlock(thisReturnBean);
+        }
+        @catch (NSException *exception) {
+            NSLog(@"jsonstr生成对象失败：%@，%@",[exception name], [exception reason]);
+            failedBlock(error);
+        }
+        @finally {
+            //Code that gets executed whether or not an exception is thrown
+        }
+    }
+} failure:^(AFHTTPRequestOperation *operation, NSError *error) {
+    failedBlock(error);
+}];
+</code></pre>
+
+<hr>
 <!-- content end -->
 </div>
 <br>
