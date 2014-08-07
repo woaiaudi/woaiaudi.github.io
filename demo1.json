@@ -1,0 +1,104 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <meta name="Keywords" content="blog"/>
+    <meta name="Description" content="blog"/>
+    <title>Simple</title>
+    <link rel="shortcut icon" href="/static/favicon.png"/>
+    <link rel="stylesheet" type="text/css" href="/main.css" />
+</head>
+<body>
+<div class="main">
+    <div class="header">
+    	<ul id="pages">
+            <li><a href="/">home</a></li>
+            <li><a href="/#/tags">tags</a></li>
+            <li><a href="/#/archive">archive</a></li>
+    	</ul>
+    </div>
+	<div class="wrap-header">
+	<h1>
+    <a href="/" id="title"></a>
+	</h1>
+	</div>
+<div id="md" style="display: none;">
+<!-- markdown -->
+[{"id":1,"hotelname":"淮安鼎立国际大酒店","hotelname_e":"","coverpic":"http://www.chinahotelbooking.com/hotelphoto/huai_an/big52703001.jpg","coprice":129,"address":"经济开发区厦门路6-1号","area":"","briefinfo":"淮安鼎立国际大酒店拥有商务房、行政房等各式客房，客房的构造延续了酒店宽敞舒适的风格，凭窗远眺，开发区近百家世界500强企业尽收眼底。","level":"5","type":0,"isdouble":0,"cont":"","bus":"可乘公交8、12、22路到达","tel":"400-820-3333","longitude":"119.065375","latitude":"33.593555","rooms_type":0,"comments_num":"12","gets_num":"32"},{"id":2,"hotelname":"淮安宾馆","hotelname_e":"","coverpic":"http://www.intha.cn/edit/UploadFile/2008111014529478.jpg","coprice":228,"address":"淮安区友谊路2号(近勺湖园)","area":"","briefinfo":"江苏淮安宾馆，是中国公认黄金旅游品牌饭店，坐落在全国历史文化名城——江苏淮安。淮安宾馆占地逾百亩，东接一代伟人周恩来纪念馆，南濒风光秀丽的勺湖公园，西依波光潋滟的萧湖公园，北眺神话小说家吴承恩故居。馆内亭台楼阁、湖水荡漾；翠叠柳掩、鸟语花香。","level":"5","type":0,"isdouble":0,"cont":"","bus":"可乘公交8、13、6路到达","tel":"400-820-3333","longitude":"119.142864","latitude":"33.514564","rooms_type":0,"comments_num":"20","gets_num":"67"},{"id":3,"hotelname":"淮安开元名都大酒店","hotelname_e":"","coverpic":"http://ustatic.17u.cn/hotel/origin/2013/1/30/744d3f5de3384f6f9b9b697a3484a3a8.JPG","coprice":328,"address":"水渡口大道135号","area":"","briefinfo":"酒店有餐位1700余座，西餐厅、包厢群、宴会厅等风格餐厅均可让宾客品味到精致的菜肴，享受难忘的服务体验。酒店设有两间近1000平方米的多功能厅及不同规模的会议室及宴会厅，总面积达到4000多平方米，配备完善的现代化会议设施，专业的专职会务经理，能够满足各种会议的一切所需。","level":"5","type":0,"isdouble":0,"cont":"","bus":"可乘公交22路到达","tel":"400-820-3333","longitude":"119.125907","latitude":"33.619822","rooms_type":0,"comments_num":"40","gets_num":"56"},{"id":4,"hotelname":"淮安幽兰都大酒店","hotelname_e":"","coverpic":"http://p.zhuna.cn/uppic/temupload/16138/z_201212161316361107.jpg","coprice":128,"address":"淮安市健康路","area":"","briefinfo":"淮安幽兰都大酒店  是一家旅游涉外酒店，坐落在淮安市健康路上，酒店东濒淮安新世纪广场，距一代伟人周恩来纪念馆仅20分钟车程，南邻长途车站及闻名全国的小商品集散地——汇通市场，西临淮安市繁华商业街——淮海路，北靠风景秀丽的古黄河风光带。","level":"5","type":0,"isdouble":0,"cont":"","bus":"可乘公交122、606路到达","tel":"400-820-3333","longitude":"119.029358","latitude":"33.60676","rooms_type":0,"comments_num":"29","gets_num":"55"},{"id":5,"hotelname":"锦江之星健康路店","hotelname_e":"","coverpic":"http://img4.imgtn.bdimg.com/it/u=3948416873,3785842143&fm=21&gp=0.jpg","coprice":108,"address":"清河区健康东路61号","area":"","briefinfo":"锦江之星是国内知名的快捷酒店品牌，创立于1996年。至今，旗下各品牌酒店总数已超1000多家，分布在全国31个省、直辖市，200多个城市。客房总数超100000间。","level":"3","type":0,"isdouble":0,"cont":"","bus":"可乘公交31、3路到达","tel":"400-820-3333","longitude":"119.02657","latitude":"33.606785","rooms_type":0,"comments_num":"33","gets_num":"45"},{"id":6,"hotelname":"如家快捷淮安万达广场店","hotelname_e":"","coverpic":"http://hotels.cthy.com/img/201301/7384fe39-c9bb-4088-b3ed-1c6fcf63f445.jpg","coprice":108,"address":"淮安市健康东路63号","area":"","briefinfo":"如家快捷酒店，提供标准化、干净、温馨、舒适、贴心的酒店住宿产品，为海内外八方来客提供安心、便捷的旅行住宿服务。","level":"3","type":0,"isdouble":0,"cont":"","bus":"可乘公交110、115路到达","tel":"400-820-3333","longitude":"119.046296","latitude":"33.599736","rooms_type":0,"comments_num":"12","gets_num":"13"}]
+<!-- markdown end -->
+</div>
+<div class="entry" id="main">
+<!-- content -->
+<p>[{"id":1,"hotelname":"淮安鼎立国际大酒店","hotelname<em>e":"","coverpic":"http://www.chinahotelbooking.com/hotelphoto/huai</em>an/big52703001.jpg","coprice":129,"address":"经济开发区厦门路6-1号","area":"","briefinfo":"淮安鼎立国际大酒店拥有商务房、行政房等各式客房，客房的构造延续了酒店宽敞舒适的风格，凭窗远眺，开发区近百家世界500强企业尽收眼底。","level":"5","type":0,"isdouble":0,"cont":"","bus":"可乘公交8、12、22路到达","tel":"400-820-3333","longitude":"119.065375","latitude":"33.593555","rooms<em>type":0,"comments</em>num":"12","gets<em>num":"32"},{"id":2,"hotelname":"淮安宾馆","hotelname</em>e":"","coverpic":"http://www.intha.cn/edit/UploadFile/2008111014529478.jpg","coprice":228,"address":"淮安区友谊路2号(近勺湖园)","area":"","briefinfo":"江苏淮安宾馆，是中国公认黄金旅游品牌饭店，坐落在全国历史文化名城——江苏淮安。淮安宾馆占地逾百亩，东接一代伟人周恩来纪念馆，南濒风光秀丽的勺湖公园，西依波光潋滟的萧湖公园，北眺神话小说家吴承恩故居。馆内亭台楼阁、湖水荡漾；翠叠柳掩、鸟语花香。","level":"5","type":0,"isdouble":0,"cont":"","bus":"可乘公交8、13、6路到达","tel":"400-820-3333","longitude":"119.142864","latitude":"33.514564","rooms<em>type":0,"comments</em>num":"20","gets<em>num":"67"},{"id":3,"hotelname":"淮安开元名都大酒店","hotelname</em>e":"","coverpic":"http://ustatic.17u.cn/hotel/origin/2013/1/30/744d3f5de3384f6f9b9b697a3484a3a8.JPG","coprice":328,"address":"水渡口大道135号","area":"","briefinfo":"酒店有餐位1700余座，西餐厅、包厢群、宴会厅等风格餐厅均可让宾客品味到精致的菜肴，享受难忘的服务体验。酒店设有两间近1000平方米的多功能厅及不同规模的会议室及宴会厅，总面积达到4000多平方米，配备完善的现代化会议设施，专业的专职会务经理，能够满足各种会议的一切所需。","level":"5","type":0,"isdouble":0,"cont":"","bus":"可乘公交22路到达","tel":"400-820-3333","longitude":"119.125907","latitude":"33.619822","rooms<em>type":0,"comments</em>num":"40","gets<em>num":"56"},{"id":4,"hotelname":"淮安幽兰都大酒店","hotelname</em>e":"","coverpic":"http://p.zhuna.cn/uppic/temupload/16138/z<em>201212161316361107.jpg","coprice":128,"address":"淮安市健康路","area":"","briefinfo":"淮安幽兰都大酒店  是一家旅游涉外酒店，坐落在淮安市健康路上，酒店东濒淮安新世纪广场，距一代伟人周恩来纪念馆仅20分钟车程，南邻长途车站及闻名全国的小商品集散地——汇通市场，西临淮安市繁华商业街——淮海路，北靠风景秀丽的古黄河风光带。","level":"5","type":0,"isdouble":0,"cont":"","bus":"可乘公交122、606路到达","tel":"400-820-3333","longitude":"119.029358","latitude":"33.60676","rooms</em>type":0,"comments<em>num":"29","gets</em>num":"55"},{"id":5,"hotelname":"锦江之星健康路店","hotelname<em>e":"","coverpic":"http://img4.imgtn.bdimg.com/it/u=3948416873,3785842143&amp;fm=21&amp;gp=0.jpg","coprice":108,"address":"清河区健康东路61号","area":"","briefinfo":"锦江之星是国内知名的快捷酒店品牌，创立于1996年。至今，旗下各品牌酒店总数已超1000多家，分布在全国31个省、直辖市，200多个城市。客房总数超100000间。","level":"3","type":0,"isdouble":0,"cont":"","bus":"可乘公交31、3路到达","tel":"400-820-3333","longitude":"119.02657","latitude":"33.606785","rooms</em>type":0,"comments<em>num":"33","gets</em>num":"45"},{"id":6,"hotelname":"如家快捷淮安万达广场店","hotelname<em>e":"","coverpic":"http://hotels.cthy.com/img/201301/7384fe39-c9bb-4088-b3ed-1c6fcf63f445.jpg","coprice":108,"address":"淮安市健康东路63号","area":"","briefinfo":"如家快捷酒店，提供标准化、干净、温馨、舒适、贴心的酒店住宿产品，为海内外八方来客提供安心、便捷的旅行住宿服务。","level":"3","type":0,"isdouble":0,"cont":"","bus":"可乘公交110、115路到达","tel":"400-820-3333","longitude":"119.046296","latitude":"33.599736","rooms</em>type":0,"comments<em>num":"12","gets</em>num":"13"}]</p>
+<!-- content end -->
+</div>
+<br>
+<br>
+    <div id="disqus_thread"></div>
+	<div class="footer">
+		<p>© Copyright 2014 by isnowfy, Designed by isnowfy</p>
+	</div>
+</div>
+<script src="main.js"></script>
+<script src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+<script type="text/x-mathjax-config">
+    MathJax.Hub.Config({tex2jax: {inlineMath: [['$','$'], ["\\(", "\\)"]], processEscapes: true}});
+</script>
+<script id="content" type="text/mustache">
+    <h1>{{title}}</h1>
+    <div class="tag">
+    {{date}}
+    {{#tags}}
+    <a href="/#/tag/{{name}}">#{{name}}</a>
+    {{/tags}}
+    </div>
+</script>
+<script id="pagesTemplate" type="text/mustache">
+    {{#pages}}
+    <li>
+        <a href="{{path}}">{{title}}</a>
+    </li>
+    {{/pages}}
+</script>
+<script>
+$(document).ready(function() {
+    $.ajax({
+        url: "main.json",
+        type: "GET",
+        dataType: "json",
+        success: function(data) {
+            $("#title").html(data.name);
+            var pagesTemplate = Hogan.compile($("#pagesTemplate").html());
+            var pagesHtml = pagesTemplate.render({"pages": data.pages});
+            $("#pages").append(pagesHtml);
+            //path
+            var path = "demo1.json";
+            //path end
+            var now = 0;
+            for (var i = 0; i < data.posts.length; ++i)
+                if (path == data.posts[i].path)
+                    now = i;
+            var post = data.posts[now];
+            var tmp = post.tags.split(" ");
+            var tags = [];
+            for (var i = 0; i < tmp.length; ++i)
+                if (tmp[i].length > 0)
+                    tags.push({"name": tmp[i]});
+            var contentTemplate = Hogan.compile($("#content").html());
+            var contentHtml = contentTemplate.render({"title": post.title, "tags": tags, "date": post.date});
+            $("#main").prepend(contentHtml);
+            if (data.disqus_shortname.length > 0) {
+                var disqus_shortname = data.disqus_shortname;
+                (function() {
+                    var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+                    dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+                    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+                })();
+            }
+        }
+    });
+});
+</script>
+</body>
+</html>
